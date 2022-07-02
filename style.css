@@ -18,6 +18,10 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+.buttons {
+  padding: 10px 0px 20px 0px;
+}
+
 .back-button {
   font-size: 15px;
   border-color: #42f56f;
