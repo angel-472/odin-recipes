@@ -28,3 +28,8 @@ h1, h2 {
   border: 2px solid;
   padding: 4px 8px;
 }
+
+.back-button:hover {
+  background-color: #04AA6D;
+  color: white;
+}
