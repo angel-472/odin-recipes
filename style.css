@@ -33,4 +33,5 @@ h1, h2 {
   background-color: #04AA6D;
   border-color: #42f56f;
   color: white;
+  transition: .2s;
 }
