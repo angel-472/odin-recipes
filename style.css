@@ -18,11 +18,6 @@ h1, h2 {
   text-transform: uppercase;
 }
 
-.back-button:hover {
-  background-color: #04AA6D;
-  color: white;
-}
-
 .back-button {
   font-size: 15px;
   border-color: #42f56f;
@@ -32,4 +27,10 @@ h1, h2 {
   font-weight: bold;
   border: 2px solid;
   padding: 4px 8px;
+}
+
+.back-button:hover {
+  background-color: #04AA6D;
+  border-color: #42f56f;
+  color: white;
 }
